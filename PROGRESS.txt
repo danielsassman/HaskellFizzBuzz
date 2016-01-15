@@ -1,0 +1,5 @@
+Learn you a Haskell for great good
+
+1/15
+Ch. 3
+Pattern matching with lists and list comprehension
