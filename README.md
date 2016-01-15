@@ -1,1 +1,1 @@
-creating buzzfeed in Haskell
+creating fizzbuzz in Haskell
